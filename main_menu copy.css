@@ -1,0 +1,82 @@
+div.foundation_block 
+{
+    /* display: flex; 
+    flex-direction: row;   */
+    min-height: 760px; 
+    max-height: 200px;
+    margin-top: 6%;
+    background-color:rgb(44, 42, 165);
+    
+}
+
+div.firstrow_slot
+{
+    /* display: flex;
+    flex-direction: row; */
+    height: 500px;
+    width: 1000px;
+    background-color: aliceblue;
+    text-align:center;
+    margin: auto;
+}
+
+div.first_block 
+{
+    width: 320px;
+    height: 170px; 
+    color: aliceblue;
+    text-align: center;
+    display: inline-block;
+    margin: 50px 50px 50px 50px;
+    padding-top: 135px;
+    border-radius: 22px;
+    border: 9px solid;
+    border-color:rgb(13, 199, 159);
+    /* display:inline-block; */
+}
+/* padding-top: 90px;
+padding-inline: 20px;  */
+
+/* div.line 
+{
+    width: 300px;
+    height: 20px;
+    display:inline-block;
+    background-color: black;
+} */
+
+hr.line
+{
+    width: 740px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 1px;
+    background-color:rgb(13, 199, 159);
+    color:rgb(13, 199, 159);
+}
+
+div.second_blocks 
+{
+    width: 320px;
+    height: 300px; 
+    color: aliceblue;
+    display:inline-block; 
+    text-align: center;
+    margin: auto;
+    margin: 50px 30px 50px 50px;
+}
+
+div.first_block#box1 
+{
+    /* background-color: brown; */
+}
+
+div.first_block#box2 
+{
+    /* background-color: bisque; */
+}
+
+div.middle_block2#box3 
+{
+    background-color: aqua;
+}
